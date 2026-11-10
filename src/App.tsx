@@ -630,7 +630,7 @@ export default function App() {
                       <div className="flex items-baseline gap-1 flex-wrap">
                         <span className="text-xl sm:text-2xl font-black">400฿</span>
                         <span className="text-[9px] bg-emerald-500/90 text-white px-1.5 py-0.5 rounded font-bold">
-                          18:00+ เหลือ 350฿
+                          18:00+ เหลือ 351฿
                         </span>
                       </div>
                       <p className="text-[10px] text-slate-400 mt-0.5">ห้อง 6-10 (ออกก่อน 12:00)</p>
